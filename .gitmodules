@@ -1,0 +1,3 @@
+[submodule "libs/PHPTestCase"]
+	path = libs/PHPTestCase
+	url = https://github.com/DeveloperHub/PHPTestCase.git
